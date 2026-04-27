@@ -28,8 +28,7 @@ productos = [
 ]
 
 carrito = [
-  {"id":1,
-  "cantidad":2}
+
 ]
 
 @app.route('/productos', methods = ["GET"])
