@@ -27,9 +27,7 @@ productos = [
      "moneda": "Yuan"}
 ]
 
-carrito = [
-
-]
+carrito = []
 
 @app.route('/productos', methods = ["GET"])
 def mostrar_productos():
