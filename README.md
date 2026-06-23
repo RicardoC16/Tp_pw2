@@ -15,15 +15,15 @@ junto con documentación interactiva mediante Swagger.
 
 ## Ejecutar la API
 
+1- Correr el servidor
 python app.py
 
-La API estará disponible en:
-
-http://127.0.0.1:5000/
+2- Luego ingresar a: http://127.0.0.1:5000/
+para visualizar el sitio web
 
 ## Documentación
 
-La documentación interactiva está disponible en:
+La documentación con Swagger está disponible en:
 
 http://127.0.0.1:5000/apidocs/
 
