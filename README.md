@@ -1,6 +1,7 @@
 ## Arquitectura
 
-<img width="1280" height="720" alt="Spa_Arquitectura" src="https://github.com/user-attachments/assets/e2e50f41-dc00-43c2-95ae-d800a37ff1bf" />
+<img width="1280" height="720" alt="Spa_Arquitectura" src="https://github.com/user-attachments/assets/9e1aa788-41b4-400a-82c9-3f4dfaf5063a" />
+
 
 
 ## Tecnologías
